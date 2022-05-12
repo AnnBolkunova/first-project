@@ -1,15 +1,15 @@
 .footer__column-links {
-    padding: 0;
-    margin: 0 0 16px;
-    list-style: none;
-  }
+  padding: 0;
+  margin: 0 0 16px;
+  list-style: none;
+}
 
 .footer__column-links a {
-    margin-bottom: 16px;
-    display: inline;
-    line-height: 30px;
-    font-size: 18px;
-    font-weight: normal;
-    text-decoration: none;
-    color: white;
+  margin-bottom: 16px;
+  display: inline;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+  text-decoration: none;
+  color: white;
 }
